@@ -19,3 +19,5 @@ Only crossing parities (±1 moves) cost 1 per chip—hence the minimum of odd/ev
 <img width="928" height="498" alt="image" src="https://github.com/user-attachments/assets/43ac08f4-51da-4578-9a9b-3793b1a0f179" />
 
 #demo video
+
+https://github.com/user-attachments/assets/2a81f0d5-7e01-4e2c-b8e3-6b1c27aa3de7
